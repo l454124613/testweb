@@ -1,0 +1,8 @@
+保暖三宝==//*[@id="ad_head_top"]/a[1]
+comback==//*[@id="mainSearch"]/div[2]/div[1]/a[5]
+童羽绒==//*[@id="ad_head_top"]/a[3]
+衣服==//*[@id="mbshop_listPdImg"]/img
+颜色==/html/body/div[6]/div[2]/div[2]/dl[1]/dd/a[1]/img
+尺码==/html/body/div[6]/div[2]/div[2]/dl[2]/dd/a[2]
+加入购物袋==/html/body/div[6]/div[2]/div[4]/a[1]
+去结算==/html/body/div[10]/div[2]/div[1]/span[2]/a[1]
